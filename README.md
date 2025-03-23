@@ -32,8 +32,6 @@ cd Zphisher
 bash zphisher.sh
 
 
-Installation via ".deb" file
-Download the .deb file from the https://github.com/AMTGAMER009/Zphisher/releases/latest and install it using:
 
 
 bash
