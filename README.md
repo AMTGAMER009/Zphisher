@@ -24,8 +24,11 @@ git clone --depth=1 https://github.com/AMTGAMER009/Zphisher.git
 
 Run the Tool
 
+
 bash
+
 cd Zphisher
+
 bash zphisher.sh
 
 
